@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hugocddemobucket.s3-website.eu-central-1.amazonaws.com/posts/my-first-post/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "ananke"
+relativeURLs = true
+canonifyURLs = true
